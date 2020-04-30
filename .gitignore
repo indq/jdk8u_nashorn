@@ -1,9 +1,7 @@
-syntax: glob
-
-^.hgtip
+/.hgtip
 build/*
 dist/*
-/nbproject/private/
+nbproject/private/
 private.xml
 private.properties
 webrev/*
